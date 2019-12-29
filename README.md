@@ -16,7 +16,7 @@ Wiring please refer to:
 https://github.com/kennethmhp/pi-nas-usb-dock-backup/blob/master/pi_relay_dock_wiring.png
 
 ## General Guideline
-The script is designed for my personal use. Any personl data is removed for this github version such as the IFTTT Rest key. The following notes are vary by person and hardware.
+The script is designed for my personal use. Any personl data is removed for this github version such as the IFTTT Rest key. The following notes vary by person and hardware.
 * I operate the relay as is a low trigger ( 0 is power on)
 * My script placed under the pi's home directory
 * The line of firing to IFTTT Maker is commented
