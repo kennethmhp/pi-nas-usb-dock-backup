@@ -30,4 +30,4 @@ usb_hdd_pwr.py - turning on/off the power supply to the USD HDD dock, usage:
 ```
 python usb_hdd_pwr.py [on|off]
 ```
-nas_backup.sh - main shell scipt to: power on the HDD dock > check USB device > mounting > rsync dryrun > chnage check > rsync > unmount > power off
+nas_backup.sh - main shell scipt to: power on the HDD dock > check USB device > mounting > rsync dryrun > change check > rsync > unmount > power off
